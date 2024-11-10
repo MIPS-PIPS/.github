@@ -3,6 +3,7 @@ MIPS Programs and Assignments
 
 ## Repositories
 [Program 1: Getting Familiar with Assembly](https://github.com/MIPS-PIPS/Program-1-Getting-Familiar-with-Assembly)
+[Program 2: Practice With Conditionals and Loops](https://github.com/MIPS-PIPS/Program-2-Practice-With-Conditionals-and-Loops)
 
 ## Contributors
 |       |       |       |
