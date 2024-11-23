@@ -5,6 +5,10 @@ MIPS Programs and Assignments
 [Program 1: Getting Familiar with Assembly](https://github.com/MIPS-PIPS/Program-1-Getting-Familiar-with-Assembly)  
 [Program 2: Practice With Conditionals and Loops](https://github.com/MIPS-PIPS/Program-2-Practice-With-Conditionals-and-Loops)  
 [Program 3: Accessing Memory and File Handling](https://github.com/MIPS-PIPS/Program-3-Accessing-Memory-and-File-Handling/tree/main)
+[Final Project: Caesar Cipher](https://github.com/MIPS-PIPS/Final-Project)
+
+
+
 ## Contributors
 |       |       |       |
 | :---: | :---: | :---: |
